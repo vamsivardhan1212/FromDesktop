@@ -1,0 +1,19 @@
+<html>
+<head> 
+<style>
+table,th,td {border: 1px solid black;}
+
+</style>
+</head>
+</body>
+<h2><center>Family Members</center></h2>
+<p> List of names</p>
+<table style="width=100%">
+<tr>
+ <th>FirstName</th>
+ <th>MiddleName</th>
+<th>Last Name</th>
+</tr>
+</table>
+</body>
+</html>
